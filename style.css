@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+}
+.row {
+  background-color: rgb(7, 1, 1);
+  color: rgb(18, 122, 24);
+  font-size: 20px;
+}
+.headshot {
+  width: 10%;
+  height: 180px;
+  border-radius: 40%;
+}
+.mid {
+  background-color: white;
+  color: black;
+  align-items: center;
+  font-size: 35px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center;
+}
+.aboutme {
+  border: 3px solid;
+  display: flex;
+  background-color: wheat;
+  box-shadow: -6px 4px 2px
+}
+
+.Information {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Info {
+  display: flex;
+  justify-content: space-between;
+  padding: 2pc;
+}
+.Copyright {
+  display: flex;
+  justify-content: center;
+}
+
+.Image1 {
+  display: flex;
+  flex-wrap: wrap;
+  border: 3px solid rgb(8, 140, 145);
+  width: 13.5%;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+
+.bottom {
+  margin-top: 350px;
+}
+
+
+.contact {
+  display: flex;
+  justify-content: space-around;
+  padding: 1.5pc;
+  margin-top: 80px;
+}
+
+a {
+  color: rgb(19, 137, 248);
+}
+
+.Myname {
+  margin: 10px;
+}
+
+.Gow {
+  color: red;
+}
+
+.TAM {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  font-family: 'Ewert', cursive;
+}
+
+.Gmail {
+  color: red;
+}
+
+.Glogo {
+  width: 20%;
+  height: 10%;
+  margin-left: 30px;
+}
+
+.Snapchat {
+  color: yellow;
+}
+
+.gmail-info {
+  display: flex;
+}
